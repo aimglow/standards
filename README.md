@@ -5,6 +5,7 @@
   - 思い付きでコミットしない。
 
 ## project types
+[index](#web)
 ### web
 #### deno
 ### batch
