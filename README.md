@@ -6,11 +6,42 @@
 
 ## project types
 - index
-  - [web](#web) > [ [deno](#deno), [preact](#preact)([react](#react)), [jsx](#jsx), [lint](#lint) ]
+  - [web](#web) > [ [deno](#deno)([node](#node)), [preact](#preact)([react](#react)), [tailwindcss](#tailwindcss), [jsx](#jsx), [lint](#lint) ]
   - [batch](#batch) > [ [powershell](#powershell), [bash](#bash) ]
   - [documentation](#documentation) > [ [markdown](#markdown), [mermaid](#mermaid), ([excel](#excel)) ]
+
 ### web
 #### deno
+[REASON]
+  - secure
+  - flesh is fullstack runtime
+  - fast (simple, minimumn, high scalable)
+
+##### node
+> node is sub
+[REASON]
+
+#### preact
+[merit]
+  - standard for flesh
+  - fast (simple, minimumn, high scalable)
+  - good intuition
+
+[demerit]
+  - not popular: preact project is more less than react.
+
+##### react
+> react is sub
+[demerit]
+  - heavy
+
+[merit]
+  - popular: more projects is active.
+
+#### tailwindcss
+##### scss
+#### jsx
+#### lint
 ### batch
 #### powershell
   - [coding standard for powershell](pwsh/std)
