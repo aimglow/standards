@@ -12,27 +12,29 @@
 
 ### web
 #### deno
-  * REASON
-    - secure
-    - flesh is fullstack runtime
-    - fast (simple, minimumn, high scalable)
+  * reason
+    * merit
+      - secure
+      - flesh is fullstack runtime
+      - fast (simple, minimumn, high scalable)
 
 ##### node
 > node is sub
 [REASON]
 
 #### preact
-  * merit
-    - standard for flesh
-    - fast (simple, minimumn, high scalable)
-    - good intuition
+  * reason
+    * merit
+      - standard for flesh
+      - fast (simple, minimumn, high scalable)
+      - good intuition
 
-  * demerit
-    - not popular: preact project is more less than react.
+    * demerit
+      - not popular: preact project is more less than react.
 
 ##### react
 > react is sub
-  * REASON
+  * reason
     * demerit
       - heavy
     * merit
