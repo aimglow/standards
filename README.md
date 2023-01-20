@@ -9,11 +9,13 @@
   - [web](#web) 
     <div width="100%" style="border:1px solid gray;">
       <span>MAIN : </span>
-      <span><a href="#deno"               >deno</a>
-      <span><a href="#react"              >preact</a>
-      <span><a href="#tailwindcss"        >tailwindcss</a>
-      <span><a href="#jsx"                >jsx</a>
-      <span><a href="#lint"               >lint</a>
+      [
+        <span><a href="#deno"               >deno         </a>,
+        <span><a href="#react"              >preact       </a>,
+        <span><a href="#tailwindcss"        >tailwindcss  </a>,
+        <span><a href="#jsx"                >jsx          </a>,
+        <span><a href="#lint"               >lint         </a>
+      ]
     </div>
     <div style="border:1px solid gray; display:table-row;">SUB : [ [node](#node), [react](#react)]</div>
   - [batch](#batch) 
