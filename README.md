@@ -10,7 +10,7 @@
         <div style="border:1px solid gray;">
           <span>MAIN : </span>
           [
-            <span><a href="#deno"        >deno         </a></span>,
+  <span><a href="#deno"        >deno         </a></span>,
             <span><a href="#preact"      >preact       </a></span>,
             <span><a href="#tailwindcss" >tailwindcss  </a></span>,
             <span><a href="#jsx"         >jsx          </a></span>,
@@ -104,10 +104,13 @@
         </div> 
           
   - [documentation](#documentation)
-       <div style="border:1px solid gray;">
-          <span>MAIN : </span>
-          [
-            <span><a href="#markdown"    >markdown   </a></span>,
+	<div style="border:1px solid gray;">
+	<span>MAIN : </span>
+	[
+		<span><a 
+			href="#markdown"
+			>      markdown
+		</a></span>,
             <span><a href="#mermaid"     >mermaid   </a></span>,
             <span><a href="#uml"         >uml         </a></span>,
           ]
