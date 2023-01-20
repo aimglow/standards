@@ -32,11 +32,11 @@
 
 ##### react
 > react is sub
-[demerit]
-  - heavy
-
-[merit]
-  - popular: more projects is active.
+  * REASON
+    * demerit
+      - heavy
+    * merit
+      - popular: more projects is active.
 
 #### tailwindcss
 ##### scss
