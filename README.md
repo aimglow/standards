@@ -11,7 +11,6 @@
   - [documentation](#documentation) > [ [markdown](#markdown), [mermaid](#mermaid), ([excel](#excel)) ]
 
 ### web
----
 #### deno
   * reason
     * merit
@@ -20,7 +19,6 @@
       - fast (simple, minimumn, high scalable)
 
 ##### node
----
 > node is sub
 [REASON]
 
