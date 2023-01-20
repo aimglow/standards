@@ -12,10 +12,10 @@
 
 ### web
 #### deno
- * REASON
-  - secure
-  - flesh is fullstack runtime
-  - fast (simple, minimumn, high scalable)
+  * REASON
+    - secure
+    - flesh is fullstack runtime
+    - fast (simple, minimumn, high scalable)
 
 ##### node
 > node is sub
