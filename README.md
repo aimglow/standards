@@ -7,7 +7,7 @@
 ## project types
 - index
   - [web](#web) 
-    <div width="100%" style="border:1px solid gray; display:flex;">
+    <div width="100%" style="border:1px solid gray;">
       <span>MAIN : </span>
       <span><a href="#deno"               >deno</a>
       <span><a href="#react"              >preact</a>
