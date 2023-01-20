@@ -6,10 +6,15 @@
 
 ## project types
 - index
-  - [web](#web) > [ [deno](#deno)([node](#node)), [preact](#preact)([react](#react)), [tailwindcss](#tailwindcss), [jsx](#jsx), [lint](#lint) ]
-  - [batch](#batch) > [ [powershell](#powershell), [bash](#bash) ]
-  - [documentation](#documentation) > [ [markdown](#markdown), [mermaid](#mermaid), ([excel](#excel)) ]
-
+  - [web](#web) 
+    > MAIN: [ [deno](#deno), [preact](#preact), [tailwindcss](#tailwindcss), [jsx](#jsx), [lint](#lint) ]
+    > SUB : [ [node](#node), [react](#react)]
+  - [batch](#batch) 
+    > [ [powershell](#powershell), [bash](#bash) ]
+  - [documentation](#documentation) 
+    > [ [markdown](#markdown), [mermaid](#mermaid), ([excel](#excel)) ]
+  - [devtools(#devtools)]
+  
 ### web
 #### deno
   * reason
