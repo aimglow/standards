@@ -12,8 +12,7 @@
 
 ### web
 #### deno
-
-__REASON__
+ * __REASON__
   - secure
   - flesh is fullstack runtime
   - fast (simple, minimumn, high scalable)
