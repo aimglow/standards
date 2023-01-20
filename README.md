@@ -13,6 +13,7 @@
 > logo など、デザインは別途プロジェクト毎に決める
 
 #### display
+> github のフォントは気持ちいいので参考にしたい。
   - mono
   - sans
   - serif  
