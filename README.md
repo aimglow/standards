@@ -7,8 +7,8 @@
 ## project types
 - index
   - [web](#web) > [ [deno](#deno), [preact](#preact)([react](#react)), [jsx](#jsx), [lint](#lint) ]
-  - [batch](#batch) > [powershell](#powershell)
-  - [documentation](#documentation)
+  - [batch](#batch) > [ [powershell](#powershell), [bash](#bash) ]
+  - [documentation](#documentation) > [ [markdown](#markdown), [mermaid](#mermaid), ([excel](#excel)) ]
 ### web
 #### deno
 ### batch
