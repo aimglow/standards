@@ -7,19 +7,78 @@
 ## project types
 - index
   - [web](#web) 
-    <div width="100%" style="border:1px solid gray;">
-      <span>MAIN : </span>
-      [
-        <span><a href="#deno"               >deno         </a>,
-        <span><a href="#react"              >preact       </a>,
-        <span><a href="#tailwindcss"        >tailwindcss  </a>,
-        <span><a href="#jsx"                >jsx          </a>,
-        <span><a href="#lint"               >lint         </a>
-      ]
-    </div>
-    <div style="border:1px solid gray; display:table-row;">SUB : [ [node](#node), [react](#react)]</div>
-  - [batch](#batch) 
-    > [ [powershell](#powershell), [bash](#bash) ]
+        <div style="border:1px solid gray;">
+          <span>MAIN : </span>
+          [
+    :check: <span><a href="#deno"        >deno   </a>,
+            <span><a href="#preact"      >preact      </a>,
+            <span><a href="#tailwindcss" >tailwindcss  </a>,
+            <span><a href="#jsx"         >jsx          </a>,
+            <span><a href="#lint"        >lint         </a>
+          ]
+        </div>
+        <div style="border:1px solid gray;">
+          <span>SUB : </span>
+          [
+            <span><a href="#node"        >deno        </a>,
+            <span><a href="#react"       >react       </a>
+          ]
+        </div>
+        <div style="border:1px solid gray;">
+          <span>NO  : </span>
+          [
+            <span><a href="#cpp"         >cpp         </a>,
+            <span><a href="#react"       >react       </a>
+          ]
+        </div> 
+    - [batch](#batch)
+       <div style="border:1px solid gray;">
+          <span>MAIN : </span>
+          [
+            <span><a href="#go"          >go           </a>,
+            <span><a href="#bash"        >bash         </a>,
+            <span><a href="#sql"         >sql (?)      </a>,
+          ]
+        </div>
+        <div style="border:1px solid gray;">
+          <span>SUB : </span>
+          [
+            <span><a href="#c-lang"      >c-lang       </a>,
+            <span><a href="#pro*c"       >pro*c        </a>,
+          ]
+        </div> 
+        <div style="border:1px solid gray;">
+          <span>NO  : </span>
+          [
+            <span><a href="#cpp"         >cpp         </a>,
+            <span><a href="#react"       >react       </a>
+          ]
+        </div> 
+  - [script](#script)
+       <div style="border:1px solid gray;">
+          <span>MAIN : </span>
+          [
+            <span><a href="#typescript"  >typescript   </a>,
+            <span><a href="#powershell"  >powershell   </a>,
+            <span><a href="#bash"        >bash         </a>,
+            <span><a href="#perl"        >perl         </a>,
+          ]
+        </div>
+        <div style="border:1px solid gray;">
+          <span>SUB : </span>
+          [
+            <span><a href="#javascript"  >javascript   </a>,
+            <span><a href="#node"        >deno        </a>,
+            <span><a href="#csh"         >react       </a>
+          ]
+        </div> 
+        <div style="border:1px solid gray;">
+          <span>NO  : </span>
+          [
+            <span><a href="#cpp"         >cpp         </a>,
+          ]
+        </div> 
+
   - [documentation](#documentation) 
     > [ [markdown](#markdown), [mermaid](#mermaid), ([excel](#excel)) ]
   - [devtools(#devtools)]
