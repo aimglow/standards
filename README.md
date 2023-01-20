@@ -6,7 +6,7 @@
 
 ## project types
 - index
-  - [web](#web) > [ [deno](#deno) ]
+  - [web](#web) > [ [deno](#deno), [preact](#preact)([react](#react)), [jsx](#jsx), [lint](#lint) ]
   - [batch](#batch) > [powershell](#powershell)
   - [documentation](#documentation)
 ### web
