@@ -6,8 +6,8 @@
 
 ## project types
 - index
-  - [web](#web)
-  - [batch](#batch)
+  - [web](#web) > [deno](#deno)
+  - [batch](#batch) > [powershell](#powershell)
   - [documentation](#documentation)
 ### web
 #### deno
