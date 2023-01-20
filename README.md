@@ -7,8 +7,16 @@
 ## project types
 - index
   - [web](#web) 
-    > MAIN: [ [deno](#deno), [preact](#preact), [tailwindcss](#tailwindcss), [jsx](#jsx), [lint](#lint) ]
-    > SUB : [ [node](#node), [react](#react)]
+    <div style="border:1px solid gray; display:table-row;">
+      MAIN: [ 
+      <a href="#deno">deno</a>,
+      <a href="#react">preact</a>, 
+      <a href="#tailwindcss">tailwindcss</a>,
+      <a href="#jsx">jsx</a>,[jsx](#jsx),
+      <a href="#lint">lint</a>,
+      ]
+    </div>
+    <div style="border:1px solid gray; display:table-row;">SUB : [ [node](#node), [react](#react)]</div>
   - [batch](#batch) 
     > [ [powershell](#powershell), [bash](#bash) ]
   - [documentation](#documentation) 
