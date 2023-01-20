@@ -22,13 +22,13 @@
 [REASON]
 
 #### preact
-[merit]
-  - standard for flesh
-  - fast (simple, minimumn, high scalable)
-  - good intuition
+  * merit
+    - standard for flesh
+    - fast (simple, minimumn, high scalable)
+    - good intuition
 
-[demerit]
-  - not popular: preact project is more less than react.
+  * demerit
+    - not popular: preact project is more less than react.
 
 ##### react
 > react is sub
