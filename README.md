@@ -5,7 +5,13 @@
   - 思い付きでコミットしない。
 
 ## project types
-
+### web
+#### deno
+### batch
+#### powershell
+  - [coding standard for powershell](pwsh/std)
+### documentation
+> 基本的にはExcelは使用しないが、使用が必要な場合について考慮しておきたい。おそらく、どうにかスクリプトで動かしたいと思いすぎて前に進めない。
 
 
 ## environment
