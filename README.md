@@ -10,7 +10,7 @@
         <div style="border:1px solid gray;">
           <span>MAIN : </span>
           [
-    :check: <span><a href="#deno"        >deno   </a>,
+            <span><a href="#deno"        >deno   </a>,
             <span><a href="#preact"      >preact      </a>,
             <span><a href="#tailwindcss" >tailwindcss  </a>,
             <span><a href="#jsx"         >jsx          </a>,
